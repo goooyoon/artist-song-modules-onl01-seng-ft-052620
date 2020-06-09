@@ -9,3 +9,7 @@ module Memorable
   end
 
 end
+
+module Memorable
+  extend Artist 
+  extend Song
